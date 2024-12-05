@@ -1,3 +1,3 @@
 function hello() {
-  console.log("Hello React")
+  console.log("Hello React from SLIIT")
 }
